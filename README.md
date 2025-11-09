@@ -25,11 +25,3 @@ Soy un desarrollador apasionado por la arquitectura de software escalable y la c
 - **Buscando:** Colaborar en proyectos de código abierto relacionados con `[Soluciones enfocadas a empresas]`.
 - **Puedes contactarme para:** `[Ofertas de trabajo, mentoría, o simplemente para hablar sobre tecnología]`
 
----
-
-### 📫 Conéctate conmigo
-
-| Plataforma | Enlace |
-| :--- | :--- |
-| **LinkedIn** | [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)]([[Tu Enlace de LinkedIn](https://www.linkedin.com/in/emi-contreras/)]) |
-| **Correo** | [![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:[emilianocgcontact@gmail.com]) |
