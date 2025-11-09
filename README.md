@@ -1,16 +1,35 @@
-### Hi there 👋
+# Soy Emiliano Contreras Gamboa
 
-<!--
-**EmiCG/EmiCG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Desarrollador Full Stack, Estudiante de ingenieria de software
 
-Here are some ideas to get you started:
+Soy un desarrollador apasionado por la arquitectura de software escalable y la creación de soluciones para empresas. Me especializo en la construcción de front-ends dinámicos / APIs rest y siempre estoy buscando la próxima oportunidad para aprender y crecer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Mi Stack de Tecnología Favorito
+
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Lenguajes** | `[Java, Dart, PHP]` |
+| **Frontend** | `[Tailwind CSS, HTML, CSS]` |
+| **Backend/Frameworks** | `[Spring Boot, Laravel]` |
+| **Bases de Datos** | `[MySQL]` |
+| **DevOps/Cloud** | `[Docker, Git]` |
+
+---
+
+### 💡 Actualmente
+
+- **Trabajo en:** Un proyecto llamado `[Servicio Médico UADY]`.
+- **Aprendiendo:** Siempre perfeccionando mis habilidades en `[AWS y Spring]`.
+- **Buscando:** Colaborar en proyectos de código abierto relacionados con `[Soluciones enfocadas a empresas]`.
+- **Puedes contactarme para:** `[Ofertas de trabajo, mentoría, o simplemente para hablar sobre tecnología]`
+
+---
+
+### 📫 Conéctate conmigo
+
+| Plataforma | Enlace |
+| :--- | :--- |
+| **LinkedIn** | [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)]([[Tu Enlace de LinkedIn](https://www.linkedin.com/in/emi-contreras/)]) |
+| **Correo** | [![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:[emilianocgcontact@gmail.com]) |
